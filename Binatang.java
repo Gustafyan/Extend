@@ -9,3 +9,4 @@ public class Binatang {
     System.out.println("Tampil Suara");
    
   }  
+}
